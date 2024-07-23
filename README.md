@@ -35,3 +35,6 @@
 - Lord Ya
 - Lucifer
 - Melee
+
+## Live site
+- [https://fermop.github.io/dbz_personajes/](https://fermop.github.io/dbz_personajes/)
